@@ -1,4 +1,4 @@
-FROM     ubuntu
-RUN      apt update
-RUN      apt install nginx -y
-CMD      ["nginx","-g","daemon off;"]
+FROM    ubuntu
+RUN     apt update
+RUN     apt install nginx -y
+CMD     ["nginx","-g","daemon off;"]
