@@ -1,2 +1,2 @@
-FROM     ubuntu
-RUN      apt update
+FROM    ubuntu
+RUN     apt update
