@@ -1,0 +1,2 @@
+FROM       ubuntu
+STOPSIGNAL SIGILL
